@@ -1,0 +1,5 @@
+{
+  "name": "TikTok 创意工坊",
+  "description": "A comprehensive AI-powered suite for TikTok e-commerce, featuring batch image generation using Gemini 2.5 Flash Image and video creation with Veo.",
+  "requestFramePermissions": []
+}
